@@ -27,7 +27,7 @@
     <li>Partitioning | Particionamento<br>
     EN: We will divide our data as follows: the first half will be for training the classifier, and the second half for the test.<br>
     PT-BR: Iremos dividir nossos dados da seguinte maneira: a primeira metade será para treino do classificador, e a segunda metade para o teste.<br>
-    <img src="./splitdata.png" alt="SplitData"><br>
+    <img src="./splitdata.PNG" alt="SplitData"><br>
     EN: Knowing this, we will have test features and test labels, as well as training features and training labels.<br>
     PT-BR: Sabendo disso teremos features de teste e labels de teste, assim como teremos features de treino e labels de treino.
     </li>
@@ -35,18 +35,18 @@
 
 <h2>Classifier Function | Função do Classificador</h2>
 <ul>
-    <li><img src="./graph.png" alt="Graph"><br>
+    <li><img src="./graph.PNG" alt="Graph"><br>
     EN: Pretend that we want to distinguish the green dots from the red ones. We will then have two features, the x and y coordinates of each dot.<br>
     PT-BR: Faça de conta que queremos distinguir os pontos verdes dos vermelhos. Teremos então duas features, as coordenadas x e y de cada ponto.
     </li>
-    <li><img src="./graph2.png" alt="Graph2"><br>
+    <li><img src="./graph2.PNG" alt="Graph2"><br>
     EN: We want a function that classifies a point that has never been seen before, and classifies it as red or green.<br>
     PT-BR: Queremos uma função que classifique um ponto nunca visto antes, e classifique-o como como vermelho ou verde.
     </li>
-    <li><img src="./graph3.png" alt="Graph3"><br>
+    <li><img src="./graph3.PNG" alt="Graph3"><br>
     EN: Based on the points that already existed, we can see that we can draw a line that separates both, this can be used as a classifier.<br>
     PT-BR: Baseado nos pontos que já existiam, podemos ver que podemos traçar uma linha que separe ambos, esta pode ser usada como classificador.
-    </li><li><img src="./graph4.png" alt="Graph4"><br>
+    </li><li><img src="./graph4.PNG" alt="Graph4"><br>
     EN: Knowing that the line equation can be described as y = mx + b, we can analyze point by point and adjust its parameters. One way of thinking about learning is to use training data to adjust the parameters of a model.<br>
     PT-BR: Sabendo que a equação da linha pode ser descrita como y = mx + b, podemos analisar ponto por ponto e ir ajustando seus paramêtros. Um modo de pensar no aprendizado é usando dados de treinamento para ajustar os paramêtros de um modelo.
     </li>
