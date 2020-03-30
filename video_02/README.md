@@ -21,17 +21,17 @@
     EN: In this case, we will import the dataset direct from the scikit.<br>
     PT-BR: Nesse caso, importaremos o conjunto de dados diretamente do scikit.</li>
     <br>
-    <li>Train Classifier | Treinar o Classificador</li>
-    <p>EN: In this case we will use petal length, petal width, sepal length, sepal width to classify the species.</p>
-    <p>PT-BR: Neste caso, usaremos comprimento da pétala, largura da pétala, comprimento da sépala, largura da sépala para classificar a espécie. </p>
-    <img src="./table.PNG" alt="Table">
+    <li>Train Classifier | Treinar o Classificador
+    EN: In this case we will use petal length, petal width, sepal length, sepal width to classify the species.<br>
+    PT-BR: Neste caso, usaremos comprimento da pétala, largura da pétala, comprimento da sépala, largura da sépala para classificar a espécie. <br>
+    <img src="./table.PNG" alt="Table"></li>
     <br>
-    <li>Make Predictions | Fazer Predições</li>
-    <p>EN: We will predict the test data, given that we already know their classification.</p>
-    <p>PT-BR: Iremos prever os dados de teste, tendo em vista que já sabemos a classificação deles. </p>
+    <li>Make Predictions | Fazer Predições
+    EN: We will predict the test data, given that we already know their classification.<br>
+    PT-BR: Iremos prever os dados de teste, tendo em vista que já sabemos a classificação deles.</li>
     <br>
-    <li>Visualize the tree | Visualizar a Árvore de decisão</li>
+    <li>Visualize the tree | Visualizar a Árvore de decisão
     <img src="./tree.PNG" alt="Tree">
-    <p>EN: Each node asks yes or no about each of the features, if it is true it goes to the left, otherwise it goes to the right.</p>
-    <p>PT-BR: Cada nódulo pergunta sim ou não sobre cada uma das características, se é verdade ele vai para esquerda caso contrário irá para direita.</p>
+    EN: Each node asks yes or no about each of the features, if it is true it goes to the left, otherwise it goes to the right.<br>
+    PT-BR: Cada nódulo pergunta sim ou não sobre cada uma das características, se é verdade ele vai para esquerda caso contrário irá para direita.</li>
 </ol>

@@ -38,11 +38,11 @@
 </ol>
 
 <h2>Training Data | Dados de Treinamento</h2>
-<p>EN: In the video we use a table with the weight of each fruit, the texture and we know its marker, with this we will use this data to create a classifier capable of predicting whether it is an apple or orange using two features: weight and texture. Note that in the code we take 0 for irregular texture and 1 for regular, as well as 0 for apple and 1 for orange.</p>
-<p>PT-BR: No vídeo usamos uma tabela com o peso de cada fruta, a textura e sabemos qual seu marcador, com isto usaremos estes dados para criar um classificador capaz de prever se é uma maçã ou laranja utilizando duas features: peso e textura. Nota-se que no código tomamos 0 para textura irregular e 1 para regular, assim também como usa-se 0 para maçã e 1 para laranja. </p>
+EN: In the video we use a table with the weight of each fruit, the texture and we know its marker, with this we will use this data to create a classifier capable of predicting whether it is an apple or orange using two features: weight and texture. Note that in the code we take 0 for irregular texture and 1 for regular, as well as 0 for apple and 1 for orange.<br>
+PT-BR: No vídeo usamos uma tabela com o peso de cada fruta, a textura e sabemos qual seu marcador, com isto usaremos estes dados para criar um classificador capaz de prever se é uma maçã ou laranja utilizando duas features: peso e textura. Nota-se que no código tomamos 0 para textura irregular e 1 para regular, assim também como usa-se 0 para maçã e 1 para laranja.<br>
 <img src="./table.PNG" alt="Table">
 
 <h2>Classifier | Classificador </h2>
-<p>PT-BR: Usaremos a <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html">Árvore de Decisão</a> como classificador.</p>
-<p>EN: We will use the <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html"> Decision Tree </a> as a classifier.</p>
+PT-BR: Usaremos a <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html">Árvore de Decisão</a> como classificador.<br>
+EN: We will use the <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html"> Decision Tree </a> as a classifier.
 <img src="./tree.PNG" alt="Tree">

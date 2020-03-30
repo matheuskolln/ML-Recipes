@@ -4,4 +4,6 @@
 <h2 align="center">Exercícios/Lessons</h2>
   <ol>
     <li><a target="_blank" href="./video_01">Hello World | Olá mundo</a></li>
+    <li><a target="_blank" href="./video_02">Visualizing a Decision Tree | Visualizando uma Árvore de Decisão</a></li>
   </ol>
+  
