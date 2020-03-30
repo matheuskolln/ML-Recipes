@@ -1,6 +1,6 @@
 <h1 align="center">Hello World | Olá Mundo</h1>
 <p>EN: In this video you can understand the concept of Machine Learning. The study of algorithms that learn from examples and experiences, instead of relying on pure code. We will write a code capable of differentiating apples and oranges.</p>
-<p>PT-BR: Neste vídeo pode-se entender o conceito de Machine Learning. O estudo de algoritmos que aprendo com exemplos e experiências, ao invês de depender de código puro. Escreveremos um codígo capaz de diferenciar maçãs e laranjas.</p>
+<p>PT-BR: Neste vídeo pode-se entender o conceito de Machine Learning. O estudo de algoritmos que aprende com exemplos e experiências, ao invés de depender de código puro. Escreveremos um codígo capaz de diferenciar maçãs e laranjas.</p>
 <p><a target="_blank" href="./video_01.py">Código | Code</a></p>
 
 <h2>Concepts | Conceitos</h2>
