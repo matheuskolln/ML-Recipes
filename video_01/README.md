@@ -1,10 +1,10 @@
 <h1>Hello World | Olá Mundo</h1>
 <p><b>EN: </b>In this video you can understand the concept of Machine Learning. The study of algorithms that learn from examples and experiences, instead of relying on pure code. We will write a code capable of differentiating apples and oranges.</p>
 <p><b>PT-BR: </b>Neste vídeo pode-se entender o conceito de Machine Learning. O estudo de algoritmos que aprendo com exemplos e experiências, ao invês de depender de código puro. Escreveremos um codígo capaz de diferenciar maçãs e laranjas.</p>
-<p><a href="./video_01.py">Código | Code</a></p>
+<p><a target="_blank" href="./video_01.py">Código | Code</a></p>
 
 <h2>Summary | Sumário</h2>
-<p>Alguns conceitos que foram vistos na aula.</p>
+<p>Concepts | Conceitos</p>
 <ul>
     <li>Classifier | Classificador: <br>
     EN: Uses data as input and assigns a marker.<br>
@@ -24,9 +24,9 @@
 </ul>
 
 <h2>Installing Anaconda | Instalando Anaconda</h2><br>
-<a href="https://www.anaconda.com/distribution/">Download Page</a>
+<a target="_blank" href="https://www.anaconda.com/distribution/">Download Page</a>
 
-<h2>Passos do Aprendizado Supervisionado</h2>
+<h2>Passos do Aprendizado Supervisionado | Supervised Learning Steps</h2>
 <ol>
     <li>Collect Training Data | Coletar Dados de Treino:<br> 
     EN: In this case, we will collect data from apples and oranges, such as weight and texture.<br>
@@ -43,6 +43,6 @@
 <img src="./table.PNG" alt="Table">
 
 <h2>Classifier | Classificador </h2>
-<p>PT-BR: Usaremos a <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html">Árvore de Decisão</a> como classificador.</p>
-<p>EN: We will use the <a href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html"> Decision Tree </a> as a classifier.</p>
+<p>PT-BR: Usaremos a <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html">Árvore de Decisão</a> como classificador.</p>
+<p>EN: We will use the <a target="_blank" href="https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html"> Decision Tree </a> as a classifier.</p>
 <img src="./tree.PNG" alt="Tree">
