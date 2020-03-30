@@ -1,10 +1,9 @@
-<h1>Visualizing a Decision Tree | Visualizando uma Árvore de Decisão</h1>
-<p>EN: </p>
+<h1 align="center">Visualizing a Decision Tree | Visualizando uma Árvore de Decisão</h1>
+<p>EN: Previously, we used the Decision Tree as a classifier, now we will add codes to see how it works behind the scenes. We will use the <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set"> Iris flower data set </a> as our dataset.</p>
 <p>PT-BR: Anteriormente, usamos a Árvore de Decisão como classificador, agora iremos adicionar códigos para ver como funciona por trás dos panos. Iremos utilizar o <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">Iris flower data set</a> como nosso conjunto de dados.</p>
 <p><a target="_blank" href="./video_02.py">Código | Code</a></p>
 
-<h2>Summary | Sumário</h2>
-<p>Concepts | Conceitos</p>
+<h2>Concepts | Conceitos</h2>
 <ul>
     <li>Dataset | Conjunto de dados: <br>
     EN: A collection of normally tabulated data. For each element there are several characteristics. Each column represents a specific variable. Each row corresponds to a specific member of the data set in question. Each value is known as a die.<br>
@@ -26,12 +25,12 @@
     PT-BR: Neste caso, usaremos comprimento da pétala, largura da pétala, comprimento da sépala, largura da sépala para classificar a espécie. <br>
     <img src="./table.PNG" alt="Table"></li>
     <br>
-    <li>Make Predictions | Fazer Predições
+    <li>Make Predictions | Fazer Predições<br>
     EN: We will predict the test data, given that we already know their classification.<br>
     PT-BR: Iremos prever os dados de teste, tendo em vista que já sabemos a classificação deles.</li>
     <br>
     <li>Visualize the tree | Visualizar a Árvore de decisão
-    <img src="./tree.PNG" alt="Tree">
+    <img src="./tree.PNG" alt="Tree"><br>
     EN: Each node asks yes or no about each of the features, if it is true it goes to the left, otherwise it goes to the right.<br>
     PT-BR: Cada nódulo pergunta sim ou não sobre cada uma das características, se é verdade ele vai para esquerda caso contrário irá para direita.</li>
 </ol>
