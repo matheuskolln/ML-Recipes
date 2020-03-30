@@ -20,7 +20,7 @@
     EN: In this case, we will import the dataset direct from the scikit.<br>
     PT-BR: Nesse caso, importaremos o conjunto de dados diretamente do scikit.</li>
     <br>
-    <li>Train Classifier | Treinar o Classificador
+    <li>Train Classifier | Treinar o Classificador<br>
     EN: In this case we will use petal length, petal width, sepal length, sepal width to classify the species.<br>
     PT-BR: Neste caso, usaremos comprimento da pétala, largura da pétala, comprimento da sépala, largura da sépala para classificar a espécie. <br>
     <img src="./table.PNG" alt="Table"></li>
