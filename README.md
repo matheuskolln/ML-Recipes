@@ -5,5 +5,6 @@
   <ol>
     <li><a target="_blank" href="./video_01">Hello World | Olá mundo</a></li>
     <li><a target="_blank" href="./video_02">Visualizing a Decision Tree | Visualizando uma Árvore de Decisão</a></li>
+    <li><a target="_blank" href="./video_03">What Makes a Good Feature? | O que determina uma boa característica?</a></li>
   </ol>
   
