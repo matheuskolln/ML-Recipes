@@ -51,7 +51,8 @@
     PT-BR: Para escrever o código precisamos de uma forma de medir a distância entre os pontos, ou seja, achar o vizinho mais próximo. Iremos medir uma linha reta, entre dois pontos como fazemos com uma régua. Nota-se que existe uma fórmula para isso chamada de Distância Euclidiana, ela mede a distância de dois pontos e funciona um pouco como o teorema de Pitágoras: a² = b² + c². É bacana notar, que por termos somente que estamos computando um espaço bi-dimensional pelo fato de termos apenas 2 features(x, y), caso houvesse mais uma feature, estaríamos então em um cubo(espaço tri-dimensional), já com quatro elementos como na <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">Iris</a> estaríamos em um hipercubo e não é tão simples visualizá-lo, porém a Distância Euclidiana funciona da mesma maneira independente do número de dimensões. <br>
     <img src="./graph3.PNG" alt="Graph3">
     <h3>Code of Euclidean Distance | Código da Distância Euclidiana</h3>
-    <pre><code>from scipy.spatial import distance 
+    <pre><code>
+    from scipy.spatial import distance 
     def euc(a, b):
         return distance.euclidean(a, b)
     </pre></code>
