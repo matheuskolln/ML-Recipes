@@ -4,11 +4,10 @@
 <p><a target="_blank" href="./video_05.py">Código | Code</a></p>
 <p><a target="_blank" href="https://www.youtube.com/watch?v=AoeEHqVSNOw">YouTube Link</a></p>
 
-<h2>Concepts | Conceitos</h2>
+<h2>Outline | Esboço:</h2>
 <ul>
-    <li>Outline | Esboço: <br>
-    EN: Let's start with the code for Episode 4: <a href="../video_04/video_04.py"> "Let's write a Pipeline" </a>. Keep in mind that in that episode we did a simple experiment, we divided the data set into training and testing. We use training data to train a classifier, and test data to assess its accuracy. Now we will focus on writing the classifier.<br>
-    PT-BR: Vamos começar com o código do Episódio 4: <a href="../video_04/video_04.py">"Vamos escrever uma Pipeline"</a>. Tenha em mente que naquele episódio fizemos um experimento simples, dividimos o conjunto de dados em treino e teste. Usamos os dados de treino para treinar um classificador, e os dados de teste para avaliar a sua precisão. Agora iremos focar em escrever o classificador.</li>
+    <li>EN: Let's start with the code for Episode 4: <a href="../video_04/video_04.py"> "Let's write a Pipeline" </a>. Keep in mind that in that episode we did a simple experiment, we divided the data set into training and testing. We use training data to train a classifier, and test data to assess its accuracy. Now we will focus on writing the classifier.</li><br>
+    <li>PT-BR: Vamos começar com o código do Episódio 4: <a href="../video_04/video_04.py">"Vamos escrever uma Pipeline"</a>. Tenha em mente que naquele episódio fizemos um experimento simples, dividimos o conjunto de dados em treino e teste. Usamos os dados de treino para treinar um classificador, e os dados de teste para avaliar a sua precisão. Agora iremos focar em escrever o classificador.</li>
 </ul>
 
 <h2>Steps | Passos</h2>
