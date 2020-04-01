@@ -2,6 +2,7 @@
 <p>EN: Previously, we used the Decision Tree as a classifier, now we will add codes to see how it works behind the scenes. We will use the <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set"> Iris flower data set </a> as our dataset.</p>
 <p>PT-BR: Anteriormente, usamos a Árvore de Decisão como classificador, agora iremos adicionar códigos para ver como funciona por trás dos panos. Iremos utilizar o <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">Iris flower data set</a> como nosso conjunto de dados.</p>
 <p><a target="_blank" href="./video_02.py">Código | Code</a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=tNa99PG8hR8">YouTube Link</a></p>
 
 <h2>Concepts | Conceitos</h2>
 <ul>

@@ -7,5 +7,6 @@
     <li><a target="_blank" href="./video_02">Visualizing a Decision Tree | Visualizando uma Árvore de Decisão</a></li>
     <li><a target="_blank" href="./video_03">What Makes a Good Feature? | O que determina uma boa característica?</a></li>
     <li><a target="_blank" href="./video_04">Let's Write a Pipeline | Vamos Escrever uma Pipeline</a></li>
+    <li><a target="_blank" href="./video_05">Writing Our First Classifier | Escrevendo o nosso primeiro Classificador</a></li>
   </ol>
   

@@ -2,6 +2,7 @@
 <p>EN: In this exercise we will write a basic pipeline for supervised learning, then we will understand how several different classifiers can solve the same problem.</p>
 <p>PT-BR: Neste exercício vamos escrever um pipeline básico para aprendizado supervisionado, depois vamos entender como vários classificadores diferentes podem resolver o mesmo problema.</p>
 <p><a target="_blank" href="./video_04.py">Código | Code</a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=84gqSbLcBFE">YouTube Link</a></p>
 
 <h2>Concepts | Conceitos</h2>
 <ul>

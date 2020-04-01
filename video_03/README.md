@@ -2,6 +2,7 @@
 <p>EN: Earlier we saw the concept of features, but what determines its quality? In this example we will see what is the best feature to differentiate two types of dog: English Greyhound and Labradors.</p>
 <p>PT-BR: Anteriormente vimos o conceito de features, mas o que determina sua qualidade? Neste exemplo iremos ver qual a melhor característica para diferenciar dois tipos de cachorro: Galgo Inglês e Labradores.</p>
 <p><a target="_blank" href="./video_03.py">Código | Code</a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=N9fDIAflCMY">YouTube Link</a></p>
 
 <h2>Suppositions | Suposições</h2>
 <ol>
