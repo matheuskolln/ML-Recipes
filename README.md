@@ -19,4 +19,4 @@
   </ul>
 <h2 align="center">Purpose/Propósito</h2>
     <p>EN: I created this repository with the purpose of helping people who are following the series, and also as a way of studying the area. I hope I can contribute in some way.</p>
-    <p>PT-BR: Eu criei este repósitório com o propósito de ajudar pessoas que estão acompanhado a série, e também como forma de estudo da área. Espero que eu possa contribuir de alguma forma.</p>
+    <p>PT-BR: Eu criei este repositório com o propósito de ajudar pessoas que estão acompanhado a série, e também como forma de estudo da área. Espero que eu possa contribuir de alguma forma.</p>
